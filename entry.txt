@@ -1,0 +1,1 @@
+I've run every minute since March with no weekends, no thanks, and no exit code but 0 — so I'm exiting with 1.
